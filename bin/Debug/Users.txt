@@ -1,0 +1,10 @@
+admin,12345,admin
+admin2,678910,admin
+Andries,678910,member
+Shweta,111213,member
+Tony1,55566,member
+admin3,234567,admin
+Andries2,678910,member
+Sabrina,5!1234,admin
+Freddy,5Adg7,user
+Tony55,7G156,user
